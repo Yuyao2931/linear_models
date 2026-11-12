@@ -183,4 +183,9 @@ nyc_airbnb |>
   theme(axis.text.x = element_text(angle = 80, hjust = 1))
 ```
 
+## Logistic regression
+
+import the WP homicide data
+
+
 

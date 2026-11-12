@@ -21285,3 +21285,7 @@ nyc_airbnb |>
 ```
 
 ![](01_linear_model_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+
+## Logistic regression
+
+import the WP homicide data
